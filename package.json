@@ -1,0 +1,12 @@
+{
+  "name": "wildfire",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "start": "node --max-old-space-size=4096 --harmony-destructuring run.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
